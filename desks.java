@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
-
-class Desks extends print
+import static silva.print.*;
+class Desks
 {
     public static void main(String[] args)
     {

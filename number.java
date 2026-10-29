@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
+import static silva.print.*;
 
-class number extends print
+class number
 {
     public static void main(String[] args)
     {

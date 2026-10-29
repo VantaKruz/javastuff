@@ -1,7 +1,9 @@
 import java.io.*;
 import java.util.Scanner;
 
-class transpose extends print
+import static silva.print.*;
+
+class transpose
 {
     public static void main(String[] args)
     {
